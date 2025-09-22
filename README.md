@@ -1,0 +1,2 @@
+# THE WHOLE WORKFLOW
+![AI AGENTS WORKFLOW](workflow.png)
